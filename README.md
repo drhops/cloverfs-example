@@ -1,6 +1,6 @@
 # cloverfs
 
-A Clojure library designed to ... well, that part is up to you.
+A really basic virtual file system written in Clojure to help me learn the language.
 
 ## Usage
 
