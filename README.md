@@ -1,6 +1,6 @@
 # CloverFS
 
-A really basic virtual file system written in Clojure to help me learn the language.
+A basic virtual file system, written in Clojure as an exercise to learn the language.
 
 
 ## License
